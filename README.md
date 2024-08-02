@@ -12,10 +12,3 @@ A machine learning-based system for generating stock trading recommendations. Th
 - Provides trading recommendations (Buy/Sell).
 - Visualizes stock prices and trading signals.
 
-## Installation
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/stock-trading-recommendation.git
-   cd stock-trading-recommendation
